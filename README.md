@@ -2,7 +2,7 @@
 
 I'm Alex, a full-stack developer from Romania.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,nodejs,py,aws,gcp,supabase,firebase,appwrite,mongodb,planetscale,docker&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,nodejs,py,figma,aws,gcp,supabase,firebase,appwrite,mongodb,planetscale,docker,git&perline=9)](https://skillicons.dev)
 
 ## About me
 
