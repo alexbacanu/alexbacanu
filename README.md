@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 I'm Alex, a full-stack developer from Romania.
 
@@ -10,7 +10,7 @@ I'm Alex, a full-stack developer from Romania.
 - 🤝 I’m looking to collaborate on everything Next.js
 - 📬 You can reach me at `alex.bacanu@live.com`
 - 💬 I like to talk about GPUs and random patch notes
-- 🔥 Intrested in everything cloud, bleeding edge technologies
+- 🔥 Interested in everything cloud, bleeding edge technologies
 
 ## Projects
 
@@ -20,5 +20,4 @@ I'm Alex, a full-stack developer from Romania.
 ## Connect with me
 
 - [Facebook](https://www.facebook.com/ba.alexandru/)
-- [LinkedIn](#)
-- [Website](#)
+- [LinkedIn](https://www.linkedin.com/in/alexandru-bacanu/)
