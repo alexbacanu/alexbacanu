@@ -15,7 +15,7 @@ I'm Alex, a full-stack developer from Romania.
 ## Projects
 
 - [🚕 catcostataxi.ro](https://catcostataxi.ro/): Estimate taxi rides, built on Next.js 13 and Google Maps API
-- [🤖 recommen.do](https://catcostataxi.ro/): Get shopping recommendations, built on Next.js 13, Appwrite and OpenAI
+- [🤖 recommen.do](https://www.recommen.do/): Get shopping recommendations, built on Next.js 13, Appwrite and OpenAI
 
 ## Connect with me
 
