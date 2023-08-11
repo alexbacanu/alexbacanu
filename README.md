@@ -1,6 +1,6 @@
 # Hi 👋
 
-I'm Alex, a full-stack developer from Romania.
+I'm Alex, an enthusiastic full-stack developer from Romania who is open to learning new technologies and improving myself.
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nextjs,nodejs,py,figma,aws,gcp,supabase,firebase,appwrite,mongodb,planetscale,docker,git&perline=9)](https://skillicons.dev)
 
